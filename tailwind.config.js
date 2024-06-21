@@ -1,7 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./src/**/*.{vue,js,html}'],
+  content: ['./index.html', './src/**/*.{vue,js,html}'],
   theme: {
+    fontFamily: {
+      libre: ['Libre Baskerville', 'serif']
+    },
     extend: {}
   },
   plugins: []
