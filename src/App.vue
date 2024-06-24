@@ -1,9 +1,9 @@
 <template>
   <main class="py-8 px-12">
     <header>
-      <h1 class="text-center text-6xl">Brad Bell</h1>
+      <h1 class="text-center text-6xl font-libre">Brad Bell</h1>
       <nav class="w-4/5 mx-auto mt-4">
-        <ul class="flex flex-row justify-between">
+        <ul class="flex flex-row justify-between text-lg">
           <li>
             <router-link to="/" exact-active-class="underline" class="hover:underline"
               >Me</router-link
