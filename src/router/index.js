@@ -5,7 +5,19 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'home'
+      name: 'me'
+    },
+    {
+      path: '/words',
+      name: 'words'
+    },
+    {
+      path: '/learn',
+      name: 'learn'
+    },
+    {
+      path: '/contact',
+      name: 'contact'
     }
   ]
 })
