@@ -6,6 +6,7 @@
       <p>Bozeman, MT</p>
       <p>Husband, father, family man</p>
       <p>Skiing, climbing, camping, mountaineering, and mountain biking</p>
+      <p>Growth mindset</p>
     </section>
   </main>
 </template>
